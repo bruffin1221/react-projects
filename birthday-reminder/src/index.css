@@ -1,0 +1,21 @@
+body{
+    background: rgb(113, 65, 44)
+}
+
+#h1{
+    text-align: center
+}
+
+#birthday-container{
+    background: gold;
+    box-sizing: border-box;
+    margin-left: 25%;
+    width: 50%;
+    border-radius: 20px;
+    border: 1px white solid;
+    padding: 20px;
+    text-align: center
+}
+
+
+
